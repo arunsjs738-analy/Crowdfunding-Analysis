@@ -1,3 +1,6 @@
+The complete dataset or files can be accessed here:
+[onedrive]-[https://1drv.ms/f/c/20e29f825253e422/IgBArm_KKsPQS70DusHahoALAQS9clzeoFo5_UW98sucNi8?e=Ms0J6C]
+
 # Crowdfunding-Analysis
 ## Project Overview
 This project focuses on analyzing structured data to extract meaningful insights using Excel and MYSQL. The objective is to clean, transform, and analyze the data to identify trends, patterns, and key metrics that support data-driven decision making and visualize the data using the Tableau and PowerBi tool.
