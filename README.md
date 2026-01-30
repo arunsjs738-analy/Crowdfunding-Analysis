@@ -1,6 +1,6 @@
 # Crowdfunding-Analysis
 ## Project Overview
-This project focuses on analyzing structured data to extract meaningful insights using SQL and Python (Pandas). The objective is to clean, transform, and analyze the data to identify trends, patterns, and key metrics that support data-driven decision making.
+This project focuses on analyzing structured data to extract meaningful insights using Excel and MYSQL. The objective is to clean, transform, and analyze the data to identify trends, patterns, and key metrics that support data-driven decision making and visualize the data using the Tableau and PowerBi tool.
 
 This repository is part of my learning and transition journey into a **Data Analyst role**.
 
